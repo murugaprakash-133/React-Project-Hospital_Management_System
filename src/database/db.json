@@ -1,0 +1,67 @@
+{
+  "users": [
+    {
+      "id": "37c4",
+      "name": "MURUGAPRAKASH S",
+      "email": "727723eucs133@skcet.ac.in",
+      "password": "727723eucs133",
+      "photo": null,
+      "gender": "male",
+      "role": "patient"
+    },
+    {
+      "id": "4c63",
+      "name": "MUKUNDA KG",
+      "email": "727723eucs130@skcet.ac.in",
+      "password": "727723eucs130",
+      "photo": null,
+      "gender": "male",
+      "role": "doctor"
+    },
+    {
+      "id": "e6c1",
+      "name": "Kalaiarasan K",
+      "email": "727723eucs099@skcet.ac.in",
+      "password": "k@l@i123",
+      "photo": null,
+      "gender": "male",
+      "role": "doctor"
+    },
+    {
+      "id": "b2ac",
+      "name": "MURALI PRAKASH S",
+      "email": "727723eucs130@skcet.ac.in",
+      "password": "Murali@143",
+      "photo": null,
+      "gender": "male",
+      "role": "patient"
+    },
+    {
+      "id": "1447",
+      "name": "ASHWINRAM M",
+      "email": "727723eucs021@skcet.ac.in",
+      "password": "123654",
+      "photo": null,
+      "gender": "male",
+      "role": "doctor"
+    },
+    {
+      "id": "32f3",
+      "name": "KAVIN K",
+      "email": "727723eucs104@skcet.ac.in",
+      "password": "145632",
+      "photo": null,
+      "gender": "male",
+      "role": "patient"
+    },
+    {
+      "id": "13c9",
+      "name": "Muralisan",
+      "email": "727723eucs132@skcet.ac.in",
+      "password": "0000111",
+      "photo": null,
+      "gender": "male",
+      "role": "patient"
+    }
+  ]
+}
